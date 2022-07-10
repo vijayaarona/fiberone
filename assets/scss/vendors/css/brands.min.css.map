@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAGA,UAAU,CACR,WAAW,CAAE,uBAAuB,CACpC,UAAU,CAAE,MAAM,CAClB,WAAW,CAAE,MAAM,CACnB,YAAY,CCFgB,IAAI,CDGhC,GAAG,CAAE,iCAAiC,CACtC,GAAG,CAAE,wCAAwC,CAAC,2BAA2B,CACzE,mCAAmC,CAAC,eAAe,CACnD,kCAAkC,CAAC,cAAc,CACjD,iCAAiC,CAAC,kBAAkB,CACpD,6CAA6C,CAAC,aAAa,CAG7D,AAAA,IAAI,AAAC,CACH,WAAW,CAAE,uBAAuB,CACrC",
+    "sources": [
+        "../font-awesome/brands.scss",
+        "../font-awesome/_variables.scss"
+    ],
+    "names": [],
+    "file": "brands.min.css"
+}

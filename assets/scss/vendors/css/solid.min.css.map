@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAAA;;;GAGG,AAGH,UAAU,CACR,WAAW,CAAE,qBAAqB,CAClC,UAAU,CAAE,MAAM,CAClB,WAAW,CAAE,GAAG,CAChB,YAAY,CCLgB,IAAI,CDMhC,GAAG,CAAE,gCAAgC,CACrC,GAAG,CAAE,uCAAuC,CAAC,2BAA2B,CACxE,kCAAkC,CAAC,eAAe,CAClD,iCAAiC,CAAC,cAAc,CAChD,gCAAgC,CAAC,kBAAkB,CACnD,4CAA4C,CAAC,aAAa,CAG5D,AAAA,GAAG,CACH,IAAI,AAAC,CACH,WAAW,CAAE,qBAAqB,CAClC,WAAW,CAAE,GAAG,CACjB",
+    "sources": [
+        "../font-awesome/solid.scss",
+        "../font-awesome/_variables.scss"
+    ],
+    "names": [],
+    "file": "solid.min.css"
+}
